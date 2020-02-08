@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "84541770615",
+    "firebase_url": "https://artableshop-29e4b.firebaseio.com",
+    "project_id": "artableshop-29e4b",
+    "storage_bucket": "artableshop-29e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84541770615:android:49261ce39e7284671a2f72",
+        "android_client_info": {
+          "package_name": "com.example.artableapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84541770615-33qrosn1kt603nbvc4vfvc9ij4rbmfj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt3R0ryV2x8Z7AEpeJceR_Ww0Z91I1hjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "84541770615-33qrosn1kt603nbvc4vfvc9ij4rbmfj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
